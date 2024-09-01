@@ -1,0 +1,22 @@
+{
+  "effect": {
+    "bottom bar": {
+      "description": null,
+      "type": "custom-shadow",
+      "value": {
+        "shadowType": "innerShadow",
+        "radius": 60,
+        "color": "#00000070",
+        "offsetX": 74,
+        "offsetY": -3,
+        "spread": -31
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:26924fe020c3b753a0047e1608cc6df26dbfbb8e,",
+          "exportKey": "effect"
+        }
+      }
+    }
+  }
+}
